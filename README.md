@@ -36,9 +36,13 @@ Another insight that the district will surely be happy about is that there appea
 <img width="652" alt="SpendPerStudent" src="https://user-images.githubusercontent.com/95047485/149646264-478cc7bd-095a-4081-834f-851209f21b2c.PNG">
 
 Removing the 9th grade scores from Thomas high school had a small impact on overall scores as seen below
- Thomas High School all students:
+ 
+Thomas High School all students:
+ 
 <img width="357" alt="ThomasHighSchool-all" src="https://user-images.githubusercontent.com/95047485/149646286-d8bc8b32-4f93-413f-8154-03e61319f8d7.PNG">
- Thomas High School ninth graders removed:
+
+Thomas High School ninth graders removed:
+ 
 <img width="392" alt="ThomasHighSchool-no9th" src="https://user-images.githubusercontent.com/95047485/149646279-8b0721dd-547f-4ce1-ad4f-ce1dfe24497d.PNG">
 
 Other changes in the school distric analysis challenge is general re-factoring and making the code easier to read. Using conditional statements with '&' operator allows the analyst to define a variable and input all the criteria on one line instead of re-writing on multiple lines.
